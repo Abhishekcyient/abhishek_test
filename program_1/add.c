@@ -8,7 +8,7 @@ int main()
   add = 5 + 2;
  
   //subtraction
-  sub = 5 - 2;
+  sub = 6 - 2;
  
   //division
   div = 5 / (float)2;
